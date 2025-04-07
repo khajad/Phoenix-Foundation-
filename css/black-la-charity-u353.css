@@ -1,0 +1,1444 @@
+/* screen - black-la-charity-u353 */
+
+.black-la-charity-u353 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  height: 3074.0px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.black-la-charity-u353 .container-container {
+  height: 2169px;
+  position: relative;
+  width: 1440px;
+}
+
+.black-la-charity-u353 .container-81 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0px none;
+  display: flex;
+  height: 104px;
+  left: 0;
+  min-width: 1440px;
+  padding: 9px 132px;
+  position: absolute;
+  top: 0;
+}
+
+.black-la-charity-u353 .overlap-group {
+  align-self: flex-start;
+  height: 85px;
+  position: relative;
+  width: 639px;
+}
+
+.black-la-charity-u353 .header-menu-4 {
+  display: flex;
+  height: 56px;
+  left: 212px;
+  position: absolute;
+  top: 15px;
+  width: 427px;
+}
+
+.black-la-charity-u353 .frame-2 {
+  cursor: pointer;
+  gap: 8px;
+  height: 56px;
+  padding: 0 16px;
+  width: 124px;
+}
+
+.black-la-charity-u353 .project {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-bottom: 2.0px;
+  min-width: 56px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .frame-3 {
+  height: 56px;
+  justify-content: center;
+  width: 131px;
+}
+
+.black-la-charity-u353 .how-it-works {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.black-la-charity-u353 .frame-4 {
+  cursor: pointer;
+  height: 56px;
+  justify-content: center;
+  width: 100px;
+}
+
+.black-la-charity-u353 .about-us {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.black-la-charity-u353 .frame-5 {
+  height: 56px;
+  justify-content: center;
+  width: 72px;
+}
+
+.black-la-charity-u353 .fa-qs {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.black-la-charity-u353 .group-2 {
+  cursor: pointer;
+  display: flex;
+  gap: 3px;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 227px;
+}
+
+.black-la-charity-u353 .image-15 {
+  height: 85px;
+  width: 106px;
+}
+
+.black-la-charity-u353 .the-phoenix-foundation {
+  height: 71px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 7.0px;
+  width: 116px;
+}
+
+.black-la-charity-u353 .textbox-10 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 6px;
+  display: flex;
+  gap: 6px;
+  height: 37px;
+  margin-bottom: 1.0px;
+  margin-left: 214px;
+  width: 193px;
+}
+
+.black-la-charity-u353 .search {
+  height: 16px;
+  margin-left: 12px;
+  margin-top: -1px;
+  width: 16px;
+}
+
+.black-la-charity-u353 .search-1 {
+  flex: 1;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-right: 112px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.black-la-charity-u353 .button-17 {
+  align-items: center;
+  background-color: var(--blaze-orange);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  margin-left: 16px;
+  margin-top: 0;
+  overflow: hidden;
+  width: 114px;
+}
+
+.black-la-charity-u353 .get-started {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 2px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.black-la-charity-u353 .container-87 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 2089px;
+  padding: 12.0px 106px;
+  position: absolute;
+  top: 80px;
+  width: 1440px;
+}
+
+.black-la-charity-u353 .button-23 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  gap: 6px;
+  height: 36px;
+  margin-left: 26px;
+  overflow: hidden;
+  padding: 6px 11px;
+  width: 136px;
+}
+
+.black-la-charity-u353 .chevron-left {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 16px;
+  margin-left: 1px;
+  padding: 4.0px 5.3px;
+  width: 16px;
+}
+
+.black-la-charity-u353 .group-1 {
+  background-image: url(../img/group-145@2x.png);
+  background-size: 100% 100%;
+  height: 8px;
+  width: 5px;
+}
+
+.black-la-charity-u353 .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 77px;
+  margin-top: 16px;
+  min-width: 1202px;
+}
+
+.black-la-charity-u353 .image-82 {
+  height: 614px;
+  margin-bottom: 8.0px;
+  width: 701px;
+}
+
+.black-la-charity-u353 .container-88 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 16px;
+  box-shadow: 0px 4px 9px #171a1f1c , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  height: 638px;
+  overflow: hidden;
+  padding: 23.0px 0;
+  width: 424px;
+}
+
+.black-la-charity-u353 .immediate-relief-and-support {
+  letter-spacing: 0;
+  line-height: 30px;
+  width: 376px;
+}
+
+.black-la-charity-u353 .tag-1 {
+  align-self: flex-start;
+  display: flex;
+  margin-left: 26px;
+  margin-top: 11px;
+  width: 51px;
+}
+
+.black-la-charity-u353 .frame-6 {
+  background-color: var(--forget-me-not);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 51px;
+}
+
+.black-la-charity-u353 .overlap-group1 {
+  height: 71px;
+  margin-top: 19px;
+  position: relative;
+  width: 376px;
+}
+
+.black-la-charity-u353 .slider-34 {
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 376px;
+}
+
+.black-la-charity-u353 .frame {
+  background-color: var(--romantic);
+  border-radius: 3px;
+  display: flex;
+  flex: 1;
+  height: 6px;
+  overflow: hidden;
+}
+
+.black-la-charity-u353 .rectangle {
+  background-color: var(--blaze-orange);
+  border: 0px none;
+  flex: 1;
+  width: 298.77px;
+}
+
+.black-la-charity-u353 .x244usd-raised-of-500-goal {
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 282px;
+}
+
+.black-la-charity-u353 .span0 {
+  line-height: 36px;
+}
+
+.black-la-charity-u353 .span1 {
+  line-height: 22px;
+}
+
+.black-la-charity-u353 .x11-k-donations {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 24px;
+  margin-top: 7px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .button-container {
+  align-items: flex-end;
+  display: flex;
+  gap: 24px;
+  margin-top: 13px;
+  min-width: 376px;
+}
+
+.black-la-charity-u353 .button-19 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--apricot);
+  border-radius: 16px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-bottom: 0;
+  overflow: hidden;
+  width: 176px;
+}
+
+.black-la-charity-u353 .share {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 1px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.black-la-charity-u353 .button-20 {
+  align-items: center;
+  background-color: var(--blaze-orange);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 16px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-bottom: 0;
+  overflow: hidden;
+  width: 176px;
+}
+
+.black-la-charity-u353 .donate-now {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.black-la-charity-u353 .container-89 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  height: 60px;
+  margin-top: 18px;
+  min-width: 376px;
+  padding: 4px;
+}
+
+.black-la-charity-u353 .image-1 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 48px;
+  padding: 2.9px 2.3px;
+  width: 48px;
+}
+
+.black-la-charity-u353 .group {
+  align-items: center;
+  background-image: url(../img/layer-1-306@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 42px;
+  padding: 4.0px 2.4px;
+  width: 43px;
+}
+
+.black-la-charity-u353 .layer_-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  height: 4px;
+  margin-left: 9.43px;
+  min-width: 4px;
+}
+
+.black-la-charity-u353 .layer_1 {
+  align-self: flex-end;
+  height: 3px;
+  width: 1px;
+}
+
+.black-la-charity-u353 .layer_1-1 {
+  height: 3px;
+  width: 1px;
+}
+
+.black-la-charity-u353 .layer_-container-1 {
+  height: 29px;
+  margin-right: 5.66px;
+  position: relative;
+  width: 33px;
+}
+
+.black-la-charity-u353 .layer_1-2 {
+  height: 18px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.black-la-charity-u353 .layer_1-3 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 33px;
+}
+
+.black-la-charity-u353 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 12px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 87px;
+}
+
+.black-la-charity-u353 .name {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .x4d {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 4px;
+  margin-left: 195px;
+  min-width: 18px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .container-9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  height: 60px;
+  margin-top: 12px;
+  min-width: 376px;
+  padding: 4px;
+}
+
+.black-la-charity-u353 .flex-col-1 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-left: 12px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 99px;
+}
+
+.black-la-charity-u353 .x4d-1 {
+  align-self: flex-end;
+  margin-bottom: 4px;
+  margin-left: 183px;
+}
+
+.black-la-charity-u353 .flex-col-2 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-left: 12px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 75px;
+}
+
+.black-la-charity-u353 .x4d-2 {
+  align-self: flex-end;
+  margin-bottom: 4px;
+  margin-left: 207px;
+}
+
+.black-la-charity-u353 .flex-col-3 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-left: 12px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 115px;
+}
+
+.black-la-charity-u353 .button-container-1 {
+  margin-top: 12px;
+  min-width: 376px;
+}
+
+.black-la-charity-u353 .button-21 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--apricot);
+  border-radius: 6px;
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  overflow: hidden;
+  width: 176px;
+}
+
+.black-la-charity-u353 .see-all {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.black-la-charity-u353 .button-22 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 6px;
+  display: flex;
+  gap: 6px;
+  height: 36px;
+  overflow: hidden;
+  padding: 6px 16px;
+  width: 176px;
+}
+
+.black-la-charity-u353 .group-3 {
+  height: 14px;
+  width: 14px;
+}
+
+.black-la-charity-u353 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 26px;
+  margin-top: 61px;
+  min-width: 685px;
+}
+
+.black-la-charity-u353 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 16px;
+  box-shadow: 0px 2px 5px #171a1f17 , 0px 0px 2px #171a1f1f;
+  display: flex;
+  height: 100px;
+  margin-bottom: 4.0px;
+  min-width: 100px;
+  padding: 28px 32px;
+}
+
+.black-la-charity-u353 .chevron-left-large {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 0;
+  padding: 0 5.5px;
+  width: 22px;
+}
+
+.black-la-charity-u353 .group-4 {
+  background-image: url(../img/group-146@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  width: 10px;
+}
+
+.black-la-charity-u353 .image-1-1 {
+  height: 110px;
+  margin-left: 6px;
+  width: 110px;
+}
+
+.black-la-charity-u353 .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/image-122@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 110px;
+  margin-left: 6px;
+  min-width: 110px;
+  padding: 31px 37px;
+}
+
+.black-la-charity-u353 .chevron-right-large {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 0;
+  padding: 0 5.8px;
+  width: 22px;
+}
+
+.black-la-charity-u353 .group-5 {
+  background-image: url(../img/group-147@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  margin-left: 1px;
+  width: 10px;
+}
+
+.black-la-charity-u353 .fundraising-and-resource-mobilization {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-left: 26px;
+  margin-top: 41px;
+  width: 714px;
+}
+
+.black-la-charity-u353 .actively-seeking-con {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-left: 26px;
+  margin-top: 24px;
+  min-height: 144px;
+  width: 690px;
+}
+
+.black-la-charity-u353 .button-container-2 {
+  margin-left: 26px;
+  margin-top: 122px;
+  min-width: 690px;
+}
+
+.black-la-charity-u353 .button-24 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 16px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  overflow: hidden;
+  width: 333px;
+}
+
+.black-la-charity-u353 .button-25 {
+  align-items: center;
+  background-color: var(--blaze-orange);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 16px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  overflow: hidden;
+  width: 333px;
+}
+
+.black-la-charity-u353 .line-1 {
+  height: 1px;
+  margin-left: 26px;
+  margin-top: 48px;
+  object-fit: cover;
+  width: 700px;
+}
+
+.black-la-charity-u353 .words-of-support-3 {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-left: 26px;
+  margin-top: 48px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .lets-donate-in-orde {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 26px;
+  margin-top: 12px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .container-9-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  box-shadow: 0px 0px 1px #171a1f12 , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: 26px;
+  margin-top: 24px;
+  min-height: 132px;
+  padding: 16.0px 0;
+  width: 690px;
+}
+
+.black-la-charity-u353 .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  margin-left: 16px;
+  min-width: 153px;
+}
+
+.black-la-charity-u353 .flex-col-4 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 93px;
+}
+
+.black-la-charity-u353 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  height: 22px;
+  min-width: 66px;
+}
+
+.black-la-charity-u353 .flex-row-4 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  margin-left: 16px;
+  min-width: 145px;
+}
+
+.black-la-charity-u353 .flex-col-5 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 85px;
+}
+
+.black-la-charity-u353 .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 22px;
+  min-width: 63px;
+}
+
+.black-la-charity-u353 .price {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 27px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .flex-row-6 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  margin-left: 16px;
+  min-width: 154px;
+}
+
+.black-la-charity-u353 .flex-col-6 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 94px;
+}
+
+.black-la-charity-u353 .flex-row-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 22px;
+  min-width: 61px;
+}
+
+.black-la-charity-u353 .button-26 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--manatee);
+  border-radius: 16px;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-left: 26px;
+  margin-top: 24px;
+  overflow: hidden;
+  width: 186px;
+}
+
+.black-la-charity-u353 .show-more {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.black-la-charity-u353 .container-container-1 {
+  height: 854px;
+  margin-left: -8px;
+  position: relative;
+  width: 1448px;
+}
+
+.black-la-charity-u353 .container-83 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  height: 648px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1440px;
+  padding: 52.0px 117px;
+  position: absolute;
+  top: 0;
+}
+
+.black-la-charity-u353 .flex-col-7 {
+  align-items: center;
+  align-self: center;
+  gap: 41px;
+  margin-top: 5.0px;
+  min-height: 529px;
+  width: 368px;
+}
+
+.black-la-charity-u353 .title {
+  letter-spacing: 0;
+  line-height: 68px;
+  margin-left: 3.0px;
+  min-width: 347px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .container-85 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 9px #171a1f1c , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  height: 420px;
+  overflow: hidden;
+  width: 368px;
+}
+
+.black-la-charity-u353 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 10px 10px 0px 0px;
+  display: flex;
+  min-width: 368px;
+}
+
+.black-la-charity-u353 .image {
+  height: 185px;
+  object-fit: cover;
+  width: 368px;
+}
+
+.black-la-charity-u353 .tag-34 {
+  display: flex;
+  gap: 4px;
+  margin-left: 16px;
+  margin-top: 19px;
+  width: 93px;
+}
+
+.black-la-charity-u353 .frame-7 {
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 59px;
+}
+
+.black-la-charity-u353 .frame-1 {
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 30px;
+}
+
+.black-la-charity-u353 .la {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 1px;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.black-la-charity-u353 .fire-development-services-enhancement {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 8px;
+  min-height: 60px;
+  width: 336px;
+}
+
+.black-la-charity-u353 .overlap-group3 {
+  align-self: center;
+  height: 74px;
+  margin-top: 4px;
+  position: relative;
+  width: 336px;
+}
+
+.black-la-charity-u353 .the-department-is-en {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.black-la-charity-u353 .rectangle-1 {
+  width: 18.01px;
+}
+
+.black-la-charity-u353 .x-raised-of {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 16px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .container-40 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 9px #171a1f1c , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  height: 420px;
+  margin-bottom: 10.0px;
+  margin-left: 40px;
+  overflow: hidden;
+  width: 393px;
+}
+
+.black-la-charity-u353 .image-61 {
+  height: 192px;
+  width: 393px;
+}
+
+.black-la-charity-u353 .tag-12 {
+  display: flex;
+  margin-left: 13px;
+  margin-top: 12px;
+  width: 92px;
+}
+
+.black-la-charity-u353 .frame-8 {
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 92px;
+}
+
+.black-la-charity-u353 .wildfire-relief {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: -4px;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.black-la-charity-u353 .overlap-group1-1 {
+  align-self: center;
+  height: 146px;
+  margin-left: 1.0px;
+  position: relative;
+  width: 362px;
+}
+
+.black-la-charity-u353 .implementation-of-th {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 361px;
+}
+
+.black-la-charity-u353 .this-plan-focuses-on {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 45px;
+  width: 361px;
+}
+
+.black-la-charity-u353 .slider-10 {
+  left: 0;
+  position: absolute;
+  top: 124px;
+  width: 361px;
+}
+
+.black-la-charity-u353 .rectangle-2 {
+  width: 242.3px;
+}
+
+.black-la-charity-u353 .flex-col-8 {
+  align-items: flex-end;
+  gap: 56px;
+  margin-left: 26px;
+  min-height: 514px;
+  width: 376px;
+}
+
+.black-la-charity-u353 .view-more {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-right: 21px;
+  min-width: 90px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .overlap-group-1 {
+  height: 79px;
+  margin-top: 19px;
+  position: relative;
+  width: 344px;
+}
+
+.black-la-charity-u353 .collaboration-with-t {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 19px;
+  width: 344px;
+}
+
+.black-la-charity-u353 .tag-35 {
+  display: flex;
+  gap: 4px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 91px;
+}
+
+.black-la-charity-u353 .frame-9 {
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 57px;
+}
+
+.black-la-charity-u353 .wildfire {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.black-la-charity-u353 .la-1 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 1px;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.black-la-charity-u353 .rectangle-3 {
+  width: 273.34px;
+}
+
+.black-la-charity-u353 .x92567-raised-of-145000-goal {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 12px;
+  margin-top: 14px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .container-28 {
+  align-items: flex-start;
+  background-color: var(--supernova);
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 8px;
+  min-height: 236px;
+  padding: 37px 93px;
+  position: absolute;
+  top: 618px;
+  width: 1440px;
+}
+
+.black-la-charity-u353 .flex-row-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  min-width: 1215px;
+}
+
+.black-la-charity-u353 .image-2 {
+  height: 71px;
+  width: 92px;
+}
+
+.black-la-charity-u353 .the-phoenix-foundation-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 0;
+  min-height: 71px;
+  width: 127px;
+}
+
+.black-la-charity-u353 .flex-col-9 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 8px;
+  margin-left: 184px;
+  min-height: 52px;
+  width: 213px;
+}
+
+.black-la-charity-u353 .flex-row-9 {
+  align-items: flex-end;
+  display: flex;
+  gap: 117px;
+  height: 22px;
+  min-width: 213px;
+}
+
+.black-la-charity-u353 .project-1 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 47px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .privacy {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .flex-row-10 {
+  align-items: flex-start;
+  display: flex;
+  gap: 78px;
+  height: 22px;
+  min-width: 205px;
+}
+
+.black-la-charity-u353 .how-it-works-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .terms {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .button-7 {
+  align-items: center;
+  align-self: flex-end;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 6px;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-left: 445px;
+  overflow: hidden;
+  width: 154px;
+}
+
+.black-la-charity-u353 .help-center {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.black-la-charity-u353 .flex-col-10 {
+  align-items: flex-start;
+  align-self: center;
+  gap: 6px;
+  min-height: 56px;
+  width: 1176px;
+}
+
+.black-la-charity-u353 .flex-row-11 {
+  align-items: flex-end;
+  display: flex;
+  height: 26px;
+  min-width: 581px;
+}
+
+.black-la-charity-u353 .phone {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .about-us-1 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 258px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .place {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 104px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .address {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 270px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .fa-qs-1 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 94px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .copyright {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 120px;
+  min-width: 122px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .logo-twitter-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 416px;
+  padding: 0 2.3px;
+  width: 24px;
+}
+
+.black-la-charity-u353 .group-6 {
+  background-image: url(../img/group-149@2x.png);
+  background-size: 100% 100%;
+  height: 16px;
+  width: 19px;
+}
+
+.black-la-charity-u353 .logo-facebook-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 2.4px 2.4px;
+  width: 24px;
+}
+
+.black-la-charity-u353 .group-7 {
+  background-image: url(../img/group-148@2x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  width: 19px;
+}
+
+.black-la-charity-u353 .logo-linkedin-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 0 3px;
+  width: 24px;
+}
+
+.black-la-charity-u353 .group-8 {
+  background-image: url(../img/group-151@2x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  width: 18px;
+}
+
+.black-la-charity-u353 .logo-youtube-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 5.2px 2.4px;
+  width: 24px;
+}
+
+.black-la-charity-u353 .group-9 {
+  background-image: url(../img/group-150@2x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  width: 19px;
+}
+
+.black-la-charity-u353 .button-container-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+}
+
+.black-la-charity-u353 .flex-col-11 {
+  display: flex;
+  flex-direction: column;
+}
+
+.black-la-charity-u353 .frame-10 {
+  align-items: center;
+  display: flex;
+}
+
+.black-la-charity-u353 .name-7 {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.black-la-charity-u353 .rectangle-4 {
+  background-color: var(--blaze-orange);
+  border: 0px none;
+  flex: 1;
+}
+
+.black-la-charity-u353 .slider {
+  align-items: center;
+  display: flex;
+  height: 22px;
+}
+
+.black-la-charity-u353 .x4d-4 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 18px;
+  text-align: right;
+  white-space: nowrap;
+}

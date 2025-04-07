@@ -1,0 +1,988 @@
+/* screen - donate-select-payment-options */
+
+.donate-select-payment-options {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 1131.89px;
+  min-width: 1440px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.donate-select-payment-options .container-106 {
+  background-color: var(--white);
+  border: 0px none;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  max-height: 104px;
+}
+
+.donate-select-payment-options .group-2 {
+  cursor: pointer;
+  display: flex;
+  gap: 3px;
+  margin-left: 99px;
+  margin-top: 9px;
+  width: 227px;
+}
+
+.donate-select-payment-options .image-15 {
+  height: 85px;
+  width: 106px;
+}
+
+.donate-select-payment-options .the-phoenix-foundation {
+  height: 71px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 7.0px;
+  width: 116px;
+}
+
+.donate-select-payment-options .button-35 {
+  align-items: center;
+  align-self: center;
+  border: 1px solid;
+  border-color: var(--burnt-maroon);
+  border-radius: 10px;
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  margin-right: 138px;
+  margin-top: 0;
+  overflow: hidden;
+  width: 219px;
+}
+
+.donate-select-payment-options .need-to-talk-204-541-9863 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 3px;
+  white-space: nowrap;
+  width: 198px;
+}
+
+.donate-select-payment-options .container-108 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  max-height: 745px;
+  min-height: 745px;
+  padding: 12.0px 132px;
+}
+
+.donate-select-payment-options .button-37 {
+  align-items: flex-start;
+  align-self: flex-start;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  gap: 6px;
+  height: 36px;
+  overflow: hidden;
+  padding: 6px 12.0px;
+  width: 159px;
+}
+
+.donate-select-payment-options .chevron-left {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 16px;
+  padding: 4.0px 5.3px;
+  width: 16px;
+}
+
+.donate-select-payment-options .group {
+  background-image: url(../img/group-168@2x.png);
+  background-size: 100% 100%;
+  height: 8px;
+  width: 5px;
+}
+
+.donate-select-payment-options .group-26 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 3.0px;
+  margin-top: 24px;
+  min-height: 40px;
+  width: 505px;
+}
+
+.donate-select-payment-options .group-27 {
+  align-items: flex-end;
+  display: flex;
+  gap: 190px;
+  margin-left: 3.0px;
+  min-width: 416px;
+}
+
+.donate-select-payment-options .overlap-group {
+  height: 12px;
+  margin-bottom: 0;
+  position: relative;
+  width: 214px;
+}
+
+.donate-select-payment-options .container-109 {
+  background-color: var(--red);
+  border: 0px none;
+  display: flex;
+  height: 4px;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 197px;
+}
+
+.donate-select-payment-options .rectangle-10 {
+  background-color: var(--royal-blue);
+  border: 4px solid;
+  margin-left: 192px;
+  margin-top: -5.0px;
+}
+
+.donate-select-payment-options .rectangle-11 {
+  background-color: var(--red);
+  border: 4px solid;
+  border-color: var(--royal-blue);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.donate-select-payment-options .container-110 {
+  background-color: var(--red);
+  border: 0px none;
+  height: 1px;
+  left: 212px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.donate-select-payment-options .rectangle-13 {
+  background-color: var(--red);
+  border: 0px none;
+  left: 202px;
+  position: absolute;
+  top: 0;
+}
+
+.donate-select-payment-options .rectangle-12 {
+  background-color: var(--red);
+  border: 0px none;
+  margin-bottom: 0;
+}
+
+.donate-select-payment-options .flex-row {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-right: 6.0px;
+  min-width: 499px;
+}
+
+.donate-select-payment-options .donation-amount {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 0;
+  min-width: 108px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .payment-details {
+  color: var(--burnt-maroon);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 97px;
+  margin-top: 0;
+  min-width: 101px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .billing-details {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 111px;
+  min-width: 82px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .title {
+  letter-spacing: 0;
+  line-height: 68px;
+  margin-right: 21.0px;
+  margin-top: 36px;
+  min-width: 341px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .select-your-preferred-payment-method {
+  color: var(--black-coral-pearl);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 5.0px;
+  margin-top: 4px;
+  min-width: 345px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .container-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  margin-left: 50.0px;
+  margin-top: 24px;
+  min-width: 504px;
+}
+
+.donate-select-payment-options .container-112 {
+  background-color: var(--selago);
+  border: 1px solid;
+  border-color: var(--royal-blue);
+  border-radius: 16px;
+  display: flex;
+  height: 64px;
+  overflow: hidden;
+  width: 246px;
+}
+
+.donate-select-payment-options .radio-2 {
+  align-self: center;
+}
+
+.donate-select-payment-options .frame {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  height: 28px;
+  min-width: 48px;
+}
+
+.donate-select-payment-options .overlap-group-1 {
+  align-items: flex-start;
+  align-self: center;
+  border: 1px solid;
+  border-color: var(--royal-blue);
+  border-radius: 10px;
+  display: flex;
+  height: 20px;
+  min-width: 20px;
+  padding: 3.5px;
+}
+
+.donate-select-payment-options .ellipse {
+  background-color: var(--royal-blue);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 5.5px;
+  height: 11px;
+  width: 11px;
+}
+
+.donate-select-payment-options .text {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .image-133 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 20px;
+  margin-left: 2px;
+  margin-top: 23px;
+  padding: 1.6px 0.0px;
+  width: 55px;
+}
+
+.donate-select-payment-options .group-container {
+  height: 17px;
+  position: relative;
+  width: 55px;
+}
+
+.donate-select-payment-options .group-1 {
+  height: 16px;
+  left: 39px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.donate-select-payment-options .group-3 {
+  height: 17px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.donate-select-payment-options .group-4 {
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.donate-select-payment-options .group-5 {
+  height: 16px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.donate-select-payment-options .group-6 {
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.donate-select-payment-options .image-135 {
+  align-items: flex-end;
+  border: 0px none;
+  display: flex;
+  margin-left: 12px;
+  margin-top: 21px;
+  overflow: hidden;
+  padding: 0 0.7px;
+  width: 38px;
+}
+
+.donate-select-payment-options .group-container-1 {
+  height: 23px;
+  margin-bottom: 0;
+  position: relative;
+  width: 37px;
+}
+
+.donate-select-payment-options .group-7 {
+  height: 18px;
+  left: 13px;
+  position: absolute;
+  top: 2px;
+  width: 10px;
+}
+
+.donate-select-payment-options .group-8 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.donate-select-payment-options .group-9 {
+  height: 23px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.donate-select-payment-options .image-134 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  margin-left: 12px;
+  margin-top: 21px;
+  overflow: hidden;
+  width: 42px;
+}
+
+.donate-select-payment-options .overlap-group-2 {
+  align-items: flex-end;
+  background-image: url(../img/group-180@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 23px;
+  margin-top: 0;
+  min-width: 42px;
+  padding: 7.0px 3.3px;
+}
+
+.donate-select-payment-options .group-10 {
+  height: 9px;
+  width: 35px;
+}
+
+.donate-select-payment-options .container-111 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--mercury);
+  border-radius: 16px;
+  display: flex;
+  gap: 2px;
+  height: 64px;
+  overflow: hidden;
+  width: 246px;
+}
+
+.donate-select-payment-options .frame-1 {
+  display: flex;
+  gap: 8px;
+  width: 48px;
+}
+
+.donate-select-payment-options .ellipse-1 {
+  border: 1px solid;
+  border-color: var(--black-coral-pearl);
+  border-radius: 10px;
+  height: 20px;
+  margin-top: 4px;
+  width: 20px;
+}
+
+.donate-select-payment-options .text-1 {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.donate-select-payment-options .image-132 {
+  align-items: center;
+  border: 0px none;
+  display: flex;
+  height: 23px;
+  margin-top: 1px;
+  overflow: hidden;
+  width: 80px;
+}
+
+.donate-select-payment-options .group-container-2 {
+  height: 17px;
+  margin-bottom: 1.47px;
+  position: relative;
+  width: 29px;
+}
+
+.donate-select-payment-options .group-11 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.donate-select-payment-options .group-12 {
+  height: 12px;
+  left: 14px;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}
+
+.donate-select-payment-options .group-container-3 {
+  align-self: flex-end;
+  height: 21px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  position: relative;
+  width: 43px;
+}
+
+.donate-select-payment-options .group-13 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+
+.donate-select-payment-options .group-14 {
+  height: 12px;
+  left: 28px;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}
+
+.donate-select-payment-options .group-15 {
+  height: 17px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.donate-select-payment-options .group-16 {
+  height: 17px;
+  margin-bottom: 1.74px;
+  width: 6px;
+}
+
+.donate-select-payment-options .textbox-16 {
+  margin-top: 24px;
+}
+
+.donate-select-payment-options .credit-card-number-required {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: 265px;
+  max-height: 26px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .textfield {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  margin-left: -1px;
+}
+
+.donate-select-payment-options .enter-card-number {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  margin-right: 348px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .textbox-1 {
+  margin-top: 16px;
+}
+
+.donate-select-payment-options .cvv-required {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: 381px;
+  max-height: 26px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .textfield-1 {
+  gap: 374px;
+}
+
+.donate-select-payment-options .enter-cvv {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.donate-select-payment-options .c-info {
+  height: 20px;
+  margin-right: 17px;
+  margin-top: -1px;
+  width: 20px;
+}
+
+.donate-select-payment-options .expiry-date-required {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: 328px;
+  max-height: 26px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .textfield-2 {
+  gap: 396px;
+}
+
+.donate-select-payment-options .mmyy {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.donate-select-payment-options .chevron-down-large {
+  height: 20px;
+  margin-right: 17px;
+  margin-top: -1px;
+  width: 20px;
+}
+
+.donate-select-payment-options .button-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  margin-top: 24px;
+  min-width: 424px;
+}
+
+.donate-select-payment-options .button-39 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  overflow: hidden;
+  width: 200px;
+}
+
+.donate-select-payment-options .place {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.donate-select-payment-options .button-38 {
+  align-items: flex-start;
+  background-color: var(--blaze-orange);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  overflow: hidden;
+  width: 200px;
+}
+
+.donate-select-payment-options .overlap-group1 {
+  height: 52px;
+  position: relative;
+  width: 200px;
+}
+
+.donate-select-payment-options .next-step {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .vector-1 {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.donate-select-payment-options .container-28 {
+  align-items: flex-start;
+  background-color: var(--supernova);
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 48px;
+  min-height: 236px;
+  padding: 37px 93px;
+  width: 1440px;
+}
+
+.donate-select-payment-options .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  min-width: 1215px;
+}
+
+.donate-select-payment-options .image {
+  height: 71px;
+  width: 92px;
+}
+
+.donate-select-payment-options .the-phoenix-foundation-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 0;
+  min-height: 71px;
+  width: 127px;
+}
+
+.donate-select-payment-options .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: 184px;
+  min-height: 52px;
+  width: 377px;
+}
+
+.donate-select-payment-options .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  min-width: 377px;
+}
+
+.donate-select-payment-options .project {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 47px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .about-us {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 117px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .privacy {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 104px;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  min-width: 369px;
+}
+
+.donate-select-payment-options .how-it-works {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .terms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 96px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .button-7 {
+  align-items: center;
+  align-self: flex-end;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 6px;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-left: 281px;
+  overflow: hidden;
+  width: 154px;
+}
+
+.donate-select-payment-options .help-center {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.donate-select-payment-options .flex-col-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 52px;
+  width: 1176px;
+}
+
+.donate-select-payment-options .flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  min-width: 746px;
+}
+
+.donate-select-payment-options .phone {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .fa-qs {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 78px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1176px;
+}
+
+.donate-select-payment-options .address {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 270px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .get-involved {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 94px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
+.donate-select-payment-options .logo-twitter-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 242px;
+  padding: 0 2.3px;
+  width: 24px;
+}
+
+.donate-select-payment-options .group-17 {
+  background-image: url(../img/group-26@2x.png);
+  background-size: 100% 100%;
+  height: 16px;
+  width: 19px;
+}
+
+.donate-select-payment-options .logo-facebook-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 2.4px 2.4px;
+  width: 24px;
+}
+
+.donate-select-payment-options .group-18 {
+  background-image: url(../img/group-25@2x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  width: 19px;
+}
+
+.donate-select-payment-options .logo-linkedin-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 0 3px;
+  width: 24px;
+}
+
+.donate-select-payment-options .group-19 {
+  background-image: url(../img/group-28@2x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  width: 18px;
+}
+
+.donate-select-payment-options .logo-youtube-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 0 2.4px;
+  width: 24px;
+}
+
+.donate-select-payment-options .group-20 {
+  background-image: url(../img/group-27@2x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  width: 19px;
+}
+
+.donate-select-payment-options .radio {
+  display: flex;
+  margin-left: 18px;
+  width: 48px;
+}
+
+.donate-select-payment-options .rectangle {
+  border-radius: 6px;
+  height: 12px;
+  width: 12px;
+}
+
+.donate-select-payment-options .textbox {
+  display: flex;
+  flex-direction: column;
+  height: 71px;
+  margin-left: 50.0px;
+  width: 504px;
+}
+
+.donate-select-payment-options .textfield-3 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  margin-left: -1px;
+}

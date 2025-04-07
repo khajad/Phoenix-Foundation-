@@ -1,0 +1,617 @@
+/* screen - donate-input-billing-details */
+
+.donate-input-billing-details {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 1138.89px;
+  min-width: 1440px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.donate-input-billing-details .container-101 {
+  background-color: var(--white);
+  border: 0px none;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  max-height: 104px;
+}
+
+.donate-input-billing-details .group-2 {
+  cursor: pointer;
+  display: flex;
+  gap: 3px;
+  margin-left: 67px;
+  margin-top: 9px;
+  width: 227px;
+}
+
+.donate-input-billing-details .image-15 {
+  height: 85px;
+  width: 106px;
+}
+
+.donate-input-billing-details .the-phoenix-foundation {
+  height: 71px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 7.0px;
+  width: 116px;
+}
+
+.donate-input-billing-details .button-31 {
+  align-items: center;
+  align-self: center;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 10px;
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  margin-right: 138px;
+  margin-top: 0;
+  overflow: hidden;
+  width: 219px;
+}
+
+.donate-input-billing-details .need-to-talk-204-541-9863 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 3px;
+  white-space: nowrap;
+  width: 198px;
+}
+
+.donate-input-billing-details .container-103 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-left: -6px;
+  margin-right: 6px;
+  max-height: 752px;
+  min-height: 752px;
+  padding: 62px 467px;
+}
+
+.donate-input-billing-details .group-21 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 10px;
+  min-height: 40px;
+  width: 503px;
+}
+
+.donate-input-billing-details .overlap-group {
+  height: 12px;
+  margin-left: 3.0px;
+  position: relative;
+  width: 416px;
+}
+
+.donate-input-billing-details .container-104 {
+  background-color: var(--red-berry);
+  border: 0px none;
+  display: flex;
+  height: 4px;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 197px;
+}
+
+.donate-input-billing-details .rectangle-6 {
+  background-color: var(--royal-blue);
+  border: 4px solid;
+  margin-left: 192px;
+  margin-top: -5.0px;
+}
+
+.donate-input-billing-details .rectangle-7 {
+  background-color: var(--red-berry);
+  border: 4px solid;
+  border-color: var(--royal-blue);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.donate-input-billing-details .container-105 {
+  background-color: var(--red-berry);
+  border: 0px none;
+  height: 4px;
+  left: 212px;
+  position: absolute;
+  top: 5px;
+  width: 197px;
+}
+
+.donate-input-billing-details .rectangle-8 {
+  background-color: var(--red-berry);
+  border: 0px none;
+  left: 404px;
+  position: absolute;
+  top: 0;
+}
+
+.donate-input-billing-details .rectangle-9 {
+  background-color: var(--red-berry);
+  border: 0px none;
+  left: 202px;
+  position: absolute;
+  top: 0;
+}
+
+.donate-input-billing-details .flex-row {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-right: 6.0px;
+  min-width: 497px;
+}
+
+.donate-input-billing-details .donation-amount {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 0;
+  min-width: 108px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .payment-details {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 96px;
+  margin-top: 0;
+  min-width: 100px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .billing-details {
+  align-self: flex-start;
+  color: var(--blaze-orange);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 109px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .title {
+  letter-spacing: 0;
+  line-height: 68px;
+  margin-right: 27.0px;
+  margin-top: 36px;
+  min-width: 281px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .personal-info {
+  align-self: flex-start;
+  color: var(--eerie-black);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 2px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .textbox-12 {
+  margin-top: 12px;
+}
+
+.donate-input-billing-details .first-name {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: 419px;
+  max-height: 26px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .textfield {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  margin-left: -1px;
+}
+
+.donate-input-billing-details .your-first-name {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  margin-right: 374px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .textbox-1 {
+  margin-top: 16px;
+}
+
+.donate-input-billing-details .last-name {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: 421px;
+  max-height: 26px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .your-last-name {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  margin-right: 377px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .email-address {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: 392px;
+  max-height: 26px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .your-email-address {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  margin-right: 345px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .contact-number {
+  flex: 1;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: 374px;
+  max-height: 26px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .button-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  margin-top: 24px;
+  min-width: 424px;
+}
+
+.donate-input-billing-details .button-34 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  overflow: hidden;
+  width: 200px;
+}
+
+.donate-input-billing-details .place {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.donate-input-billing-details .button-33 {
+  align-items: center;
+  background-color: var(--blaze-orange);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  overflow: hidden;
+  width: 200px;
+}
+
+.donate-input-billing-details .next-step {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 1px;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.donate-input-billing-details .container-28 {
+  align-items: flex-start;
+  background-color: var(--supernova);
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 48px;
+  min-height: 236px;
+  padding: 37px 93px;
+  width: 1440px;
+}
+
+.donate-input-billing-details .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  min-width: 1215px;
+}
+
+.donate-input-billing-details .image {
+  height: 71px;
+  width: 92px;
+}
+
+.donate-input-billing-details .the-phoenix-foundation-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 0;
+  min-height: 71px;
+  width: 127px;
+}
+
+.donate-input-billing-details .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: 184px;
+  min-height: 52px;
+  width: 377px;
+}
+
+.donate-input-billing-details .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  min-width: 377px;
+}
+
+.donate-input-billing-details .project {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 47px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .about-us {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 117px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .privacy {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 104px;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  min-width: 369px;
+}
+
+.donate-input-billing-details .how-it-works {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .terms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 96px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .button-7 {
+  align-items: center;
+  align-self: flex-end;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 6px;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-left: 281px;
+  overflow: hidden;
+  width: 154px;
+}
+
+.donate-input-billing-details .help-center {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.donate-input-billing-details .flex-col-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 52px;
+  width: 1176px;
+}
+
+.donate-input-billing-details .flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  min-width: 746px;
+}
+
+.donate-input-billing-details .phone {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .fa-qs {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 78px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1176px;
+}
+
+.donate-input-billing-details .address {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 270px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .get-involved {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 94px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
+.donate-input-billing-details .logo-twitter-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 242px;
+  padding: 0 2.3px;
+  width: 24px;
+}
+
+.donate-input-billing-details .group {
+  background-image: url(../img/group-26@2x.png);
+  background-size: 100% 100%;
+  height: 16px;
+  width: 19px;
+}
+
+.donate-input-billing-details .logo-facebook-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 2.4px 2.4px;
+  width: 24px;
+}
+
+.donate-input-billing-details .group-1 {
+  background-image: url(../img/group-25@2x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  width: 19px;
+}
+
+.donate-input-billing-details .logo-linkedin-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 0 3px;
+  width: 24px;
+}
+
+.donate-input-billing-details .group-3 {
+  background-image: url(../img/group-28@2x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  width: 18px;
+}
+
+.donate-input-billing-details .logo-youtube-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 0 2.4px;
+  width: 24px;
+}
+
+.donate-input-billing-details .group-4 {
+  background-image: url(../img/group-27@2x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  width: 19px;
+}
+
+.donate-input-billing-details .rectangle {
+  border-radius: 6px;
+  height: 12px;
+  width: 12px;
+}
+
+.donate-input-billing-details .textbox {
+  display: flex;
+  flex-direction: column;
+  height: 71px;
+  width: 504px;
+}

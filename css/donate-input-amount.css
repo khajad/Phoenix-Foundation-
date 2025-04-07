@@ -1,0 +1,770 @@
+/* screen - donate-input-amount */
+
+.donate-input-amount {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1140px;
+  width: 1440px;
+}
+
+.donate-input-amount .container-96 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  display: flex;
+  gap: 724px;
+  height: 104px;
+  min-width: 1440px;
+  padding: 9px 132px;
+}
+
+.donate-input-amount .group-2 {
+  align-items: center;
+  display: flex;
+  gap: 3px;
+  min-width: 227px;
+}
+
+.donate-input-amount .image-15 {
+  height: 85px;
+  width: 106px;
+}
+
+.donate-input-amount .the-phoenix-foundation {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 0;
+  min-height: 71px;
+  width: 116px;
+}
+
+.donate-input-amount .button-27 {
+  align-self: center;
+  border-color: var(--burnt-maroon);
+  border-radius: 10px;
+  height: 36px;
+  margin-top: 0;
+  padding: 6px 9px;
+  width: 219px;
+}
+
+.donate-input-amount .need-to-talk-204-541-9863 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 3px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .container-98 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  min-height: 752px;
+  padding: 12.0px 132px;
+  width: 1440px;
+}
+
+.donate-input-amount .button-29 {
+  align-self: flex-start;
+  border-color: transparent;
+  border-radius: 6px;
+  gap: 6px;
+  height: 36px;
+  padding: 6px 12.0px;
+  width: 159px;
+}
+
+.donate-input-amount .chevron-left {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 16px;
+  padding: 4.0px 5.3px;
+  width: 16px;
+}
+
+.donate-input-amount .group {
+  background-image: url(../img/group@2x.png);
+  background-size: 100% 100%;
+  height: 8px;
+  width: 5px;
+}
+
+.donate-input-amount .group-16 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 6.0px;
+  margin-top: 24px;
+  min-height: 40px;
+  width: 504px;
+}
+
+.donate-input-amount .overlap-group-1 {
+  height: 12px;
+  margin-left: 4.0px;
+  position: relative;
+  width: 416px;
+}
+
+.donate-input-amount .container-99 {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  border: 0px none;
+  display: flex;
+  height: 4px;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 197px;
+}
+
+.donate-input-amount .rectangle-2 {
+  background-color: var(--royal-blue);
+  border: 4px solid;
+  border-radius: 6px;
+  height: 12px;
+  margin-left: 192px;
+  margin-top: -5.0px;
+  width: 12px;
+}
+
+.donate-input-amount .rectangle-3 {
+  background-color: var(--burnt-maroon);
+  border: 4px solid;
+  border-radius: 6px;
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.donate-input-amount .container-100 {
+  background-color: var(--mercury);
+  border: 0px none;
+  height: 4px;
+  left: 212px;
+  position: absolute;
+  top: 5px;
+  width: 197px;
+}
+
+.donate-input-amount .rectangle-4 {
+  background-color: var(--mercury);
+  border: 0px none;
+  border-radius: 6px;
+  height: 12px;
+  left: 404px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.donate-input-amount .rectangle-5 {
+  background-color: var(--mercury);
+  border: 0px none;
+  border-radius: 6px;
+  height: 12px;
+  left: 202px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.donate-input-amount .flex-row {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-right: 6.0px;
+  min-width: 498px;
+}
+
+.donate-input-amount .donation-amount {
+  color: var(--blaze-orange);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 0;
+  min-width: 109px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-amount .payment-details {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 96px;
+  margin-top: 0;
+  min-width: 100px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-amount .billing-details {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 111px;
+  min-width: 82px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-amount .title {
+  letter-spacing: 0;
+  line-height: 68px;
+  margin-right: 9.0px;
+  margin-top: 36px;
+  min-width: 157px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-amount .ready-set-go-program {
+  color: var(--burnt-maroon);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 5.0px;
+  margin-top: 4px;
+  min-width: 219px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-amount .button-group-2 {
+  background-color: var(--wild-sand);
+  border-color: transparent;
+  margin-right: 14.0px;
+  margin-top: 24px;
+  width: 490px;
+}
+
+.donate-input-amount .frame {
+  align-items: flex-start;
+  background-color: var(--blaze-orange);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 6px 0px 0px 6px;
+  display: flex;
+  height: 36px;
+  margin-bottom: 0;
+  min-width: 245px;
+  padding: 6px 63.5px;
+}
+
+.donate-input-amount .one-off-donation {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .frame-1 {
+  align-items: flex-start;
+  background-color: var(--wild-sand);
+  border-radius: 0px 6px 6px 0px;
+  height: 36px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  min-width: 245px;
+  padding: 6px 63px;
+}
+
+.donate-input-amount .monthly-donation {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .donation-amount-1 {
+  color: var(--black-coral-pearl);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 3.0px;
+  margin-top: 36px;
+  min-width: 159px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.donate-input-amount .button-group-1 {
+  border-color: var(--burnt-maroon);
+  margin-left: 8.0px;
+  margin-top: 12px;
+  padding: 0 1.0px;
+  width: 512px;
+}
+
+.donate-input-amount .frame-2 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--burnt-maroon);
+  border-radius: 6px 0px 0px 6px;
+  height: 34px;
+  justify-content: flex-end;
+  margin-top: 0;
+  min-width: 127px;
+  padding: 0 50.4px;
+}
+
+.donate-input-amount .price {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 25px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .overlap-group {
+  height: 36px;
+  margin-bottom: -1px;
+  position: relative;
+  width: 128px;
+}
+
+.donate-input-amount .frame-3 {
+  align-items: center;
+  height: 34px;
+  left: 1px;
+  min-width: 127px;
+  padding: 0 50.4px;
+  position: absolute;
+  top: 0;
+}
+
+.donate-input-amount .price-1 {
+  min-width: 26px;
+}
+
+.donate-input-amount .rectangle {
+  background-color: var(--burnt-maroon);
+  border: 0px none;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.donate-input-amount .frame-4 {
+  align-items: center;
+  height: 34px;
+  left: 1px;
+  min-width: 127px;
+  padding: 0 49.9px;
+  position: absolute;
+  top: 0;
+}
+
+.donate-input-amount .price-2 {
+  min-width: 27px;
+}
+
+.donate-input-amount .rectangle-1 {
+  background-color: var(--burnt-maroon);
+  border: 0px none;
+  height: 36px;
+  margin-bottom: -1px;
+  width: 1px;
+}
+
+.donate-input-amount .frame-5 {
+  align-items: center;
+  align-self: center;
+  border-radius: 0px 6px 6px 0px;
+  height: 34px;
+  margin-top: 0;
+  min-width: 127px;
+  padding: 0 46.9px;
+}
+
+.donate-input-amount .price-3 {
+  min-width: 33px;
+}
+
+.donate-input-amount .textbox-11 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--apricot);
+  border-radius: 6px;
+  display: flex;
+  height: 45px;
+  margin-right: 1.0px;
+  margin-top: 11px;
+  min-width: 505px;
+  padding: 8.5px 16px;
+}
+
+.donate-input-amount .other {
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .textarea-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-top: 16px;
+  min-height: 118px;
+  width: 504px;
+}
+
+.donate-input-amount .donation-message-optional {
+  color: var(--mako);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .textfield {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 6px;
+  display: flex;
+  gap: 3px;
+  height: 96px;
+  justify-content: flex-end;
+  margin-left: -1px;
+  min-width: 505px;
+  padding: 4px;
+}
+
+.donate-input-amount .input-your-message {
+  color: var(--french-gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 2.5px;
+  width: 474px;
+}
+
+.donate-input-amount .resizing-handle {
+  align-self: flex-end;
+  height: 12px;
+  width: 12px;
+}
+
+.donate-input-amount .button-30 {
+  background-color: var(--blaze-orange);
+  border-color: transparent;
+  border-radius: 6px;
+  height: 52px;
+  margin-top: 24px;
+  padding: 11px 58px;
+  width: 200px;
+}
+
+.donate-input-amount .next-step {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 1px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .container-28 {
+  align-items: flex-start;
+  background-color: var(--supernova);
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 48px;
+  min-height: 236px;
+  padding: 37px 93px;
+  width: 1440px;
+}
+
+.donate-input-amount .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  min-width: 1215px;
+}
+
+.donate-input-amount .image {
+  height: 71px;
+  width: 92px;
+}
+
+.donate-input-amount .the-phoenix-foundation-1 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 0;
+  min-height: 71px;
+  width: 127px;
+}
+
+.donate-input-amount .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: 184px;
+  min-height: 52px;
+  width: 377px;
+}
+
+.donate-input-amount .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  min-width: 377px;
+}
+
+.donate-input-amount .project {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 47px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .about-us {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 117px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .privacy {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 104px;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  min-width: 369px;
+}
+
+.donate-input-amount .how-it-works {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .terms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 96px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .button-7 {
+  align-self: flex-end;
+  border-color: var(--blaze-orange);
+  border-radius: 6px;
+  height: 52px;
+  margin-left: 281px;
+  padding: 11px 26px;
+  width: 154px;
+}
+
+.donate-input-amount .help-center {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .flex-col-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 52px;
+  width: 1176px;
+}
+
+.donate-input-amount .flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  min-width: 746px;
+}
+
+.donate-input-amount .phone {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .fa-qs {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 78px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1176px;
+}
+
+.donate-input-amount .address {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 270px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .get-involved {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 94px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .place {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 81px;
+  min-width: 53px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .copyright {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 111px;
+  min-width: 122px;
+  white-space: nowrap;
+}
+
+.donate-input-amount .logo-twitter-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 242px;
+  padding: 0 2.3px;
+  width: 24px;
+}
+
+.donate-input-amount .group-1 {
+  background-image: url(../img/group-2@2x.png);
+  background-size: 100% 100%;
+  height: 16px;
+  width: 19px;
+}
+
+.donate-input-amount .logo-facebook-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 2.4px 2.4px;
+  width: 24px;
+}
+
+.donate-input-amount .group-3 {
+  background-image: url(../img/group-1@2x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  width: 19px;
+}
+
+.donate-input-amount .logo-linkedin-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 0 3px;
+  width: 24px;
+}
+
+.donate-input-amount .group-4 {
+  background-image: url(../img/group-4@2x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  width: 18px;
+}
+
+.donate-input-amount .logo-youtube-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 5.2px 2.4px;
+  width: 24px;
+}
+
+.donate-input-amount .group-5 {
+  background-image: url(../img/group-3@2x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  width: 19px;
+}
+
+.donate-input-amount .button {
+  align-items: flex-start;
+  border: 1px solid;
+  display: flex;
+  overflow: hidden;
+}
+
+.donate-input-amount .button-group {
+  align-items: flex-end;
+  border: 1px solid;
+  border-radius: 6.5px;
+  display: flex;
+  overflow: hidden;
+}
+
+.donate-input-amount .frame-6 {
+  border: 1px solid;
+  border-color: transparent;
+  display: flex;
+}
+
+.donate-input-amount .price-4 {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}

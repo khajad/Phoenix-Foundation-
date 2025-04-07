@@ -1,0 +1,1435 @@
+/* screen - lafd-charity-u351 */
+
+.lafd-charity-u351 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3074.0px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.lafd-charity-u351 .container-81 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0px none;
+  display: flex;
+  height: 104px;
+  min-width: 1440px;
+  padding: 9px 132px;
+}
+
+.lafd-charity-u351 .overlap-group {
+  align-self: flex-start;
+  height: 85px;
+  position: relative;
+  width: 639px;
+}
+
+.lafd-charity-u351 .header-menu-4 {
+  display: flex;
+  height: 56px;
+  left: 212px;
+  position: absolute;
+  top: 15px;
+  width: 427px;
+}
+
+.lafd-charity-u351 .frame-2 {
+  cursor: pointer;
+  gap: 8px;
+  height: 56px;
+  padding: 0 16px;
+  width: 124px;
+}
+
+.lafd-charity-u351 .project {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-bottom: 2.0px;
+  min-width: 56px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .frame-3 {
+  height: 56px;
+  justify-content: center;
+  width: 131px;
+}
+
+.lafd-charity-u351 .how-it-works {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.lafd-charity-u351 .frame-4 {
+  cursor: pointer;
+  height: 56px;
+  justify-content: center;
+  width: 100px;
+}
+
+.lafd-charity-u351 .about-us {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.lafd-charity-u351 .frame-5 {
+  height: 56px;
+  justify-content: center;
+  width: 72px;
+}
+
+.lafd-charity-u351 .fa-qs {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.lafd-charity-u351 .group-2 {
+  cursor: pointer;
+  display: flex;
+  gap: 3px;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 227px;
+}
+
+.lafd-charity-u351 .image-15 {
+  height: 85px;
+  width: 106px;
+}
+
+.lafd-charity-u351 .the-phoenix-foundation {
+  height: 71px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 7.0px;
+  width: 116px;
+}
+
+.lafd-charity-u351 .textbox-10 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 6px;
+  display: flex;
+  gap: 6px;
+  height: 37px;
+  margin-bottom: 1.0px;
+  margin-left: 214px;
+  width: 193px;
+}
+
+.lafd-charity-u351 .search {
+  height: 16px;
+  margin-left: 12px;
+  margin-top: -1px;
+  width: 16px;
+}
+
+.lafd-charity-u351 .search-1 {
+  flex: 1;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-right: 112px;
+  margin-top: -1px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.lafd-charity-u351 .button-17 {
+  align-items: center;
+  background-color: var(--blaze-orange);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  margin-left: 16px;
+  margin-top: 0;
+  overflow: hidden;
+  width: 114px;
+}
+
+.lafd-charity-u351 .get-started {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 2px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.lafd-charity-u351 .container-87 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  margin-left: -22px;
+  margin-top: 12px;
+  min-height: 2089px;
+  padding: 12.0px 0;
+  width: 1440px;
+}
+
+.lafd-charity-u351 .button-23 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  gap: 6px;
+  height: 36px;
+  margin-left: 132px;
+  overflow: hidden;
+  padding: 6px 11px;
+  width: 136px;
+}
+
+.lafd-charity-u351 .chevron-left {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 16px;
+  margin-left: 1px;
+  padding: 4.0px 5.3px;
+  width: 16px;
+}
+
+.lafd-charity-u351 .group-1 {
+  background-image: url(../img/group-110@2x.png);
+  background-size: 100% 100%;
+  height: 8px;
+  width: 5px;
+}
+
+.lafd-charity-u351 .flex-row {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  gap: 48px;
+  margin-top: 16px;
+  min-width: 1176px;
+}
+
+.lafd-charity-u351 .image-61 {
+  height: 614px;
+  width: 704px;
+}
+
+.lafd-charity-u351 .container-88 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 16px;
+  box-shadow: 0px 4px 9px #171a1f1c , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  height: 638px;
+  overflow: hidden;
+  padding: 13.0px 20px;
+  width: 424px;
+}
+
+.lafd-charity-u351 .implementation-of-th {
+  align-self: flex-end;
+  color: var(--eerie-black);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 60px;
+  width: 376px;
+}
+
+.lafd-charity-u351 .tag-1 {
+  align-self: flex-start;
+  display: flex;
+  margin-left: 6px;
+  margin-top: 1px;
+  width: 45px;
+}
+
+.lafd-charity-u351 .frame-6 {
+  background-color: var(--forget-me-not);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 45px;
+}
+
+.lafd-charity-u351 .lafd {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.lafd-charity-u351 .overlap-group1 {
+  height: 71px;
+  margin-top: 9px;
+  position: relative;
+  width: 376px;
+}
+
+.lafd-charity-u351 .slider-34 {
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 376px;
+}
+
+.lafd-charity-u351 .frame {
+  background-color: var(--romantic);
+  border-radius: 3px;
+  display: flex;
+  flex: 1;
+  height: 6px;
+  overflow: hidden;
+}
+
+.lafd-charity-u351 .rectangle {
+  background-color: var(--blaze-orange);
+  border: 0px none;
+  flex: 1;
+  width: 298.77px;
+}
+
+.lafd-charity-u351 .x8452usd-raised-of-10000-goal {
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 282px;
+}
+
+.lafd-charity-u351 .span0 {
+  line-height: 36px;
+}
+
+.lafd-charity-u351 .span1 {
+  line-height: 22px;
+}
+
+.lafd-charity-u351 .x11-k-donations {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 4px;
+  margin-top: 7px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .button-container {
+  align-items: flex-end;
+  display: flex;
+  gap: 24px;
+  margin-top: 13px;
+  min-width: 376px;
+}
+
+.lafd-charity-u351 .button-19 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--apricot);
+  border-radius: 16px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-bottom: 0;
+  overflow: hidden;
+  width: 176px;
+}
+
+.lafd-charity-u351 .share {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 1px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.lafd-charity-u351 .button-20 {
+  align-items: center;
+  background-color: var(--blaze-orange);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 16px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-bottom: 0;
+  overflow: hidden;
+  width: 176px;
+}
+
+.lafd-charity-u351 .donate-now {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.lafd-charity-u351 .container-89 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  height: 60px;
+  margin-top: 18px;
+  min-width: 376px;
+  padding: 4px;
+}
+
+.lafd-charity-u351 .image-1 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 48px;
+  padding: 2.9px 2.3px;
+  width: 48px;
+}
+
+.lafd-charity-u351 .group {
+  align-items: center;
+  background-image: url(../img/layer-1-555@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 42px;
+  padding: 4.0px 2.4px;
+  width: 43px;
+}
+
+.lafd-charity-u351 .layer_-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  height: 4px;
+  margin-left: 9.43px;
+  min-width: 4px;
+}
+
+.lafd-charity-u351 .layer_1 {
+  align-self: flex-end;
+  height: 3px;
+  width: 1px;
+}
+
+.lafd-charity-u351 .layer_1-1 {
+  height: 3px;
+  width: 1px;
+}
+
+.lafd-charity-u351 .layer_-container-1 {
+  height: 29px;
+  margin-right: 5.66px;
+  position: relative;
+  width: 33px;
+}
+
+.lafd-charity-u351 .layer_1-2 {
+  height: 18px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.lafd-charity-u351 .layer_1-3 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 33px;
+}
+
+.lafd-charity-u351 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 12px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 87px;
+}
+
+.lafd-charity-u351 .name {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .x4d {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 4px;
+  margin-left: 195px;
+  min-width: 18px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .container-9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  height: 60px;
+  margin-top: 12px;
+  min-width: 376px;
+  padding: 4px;
+}
+
+.lafd-charity-u351 .flex-col-1 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-left: 12px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 99px;
+}
+
+.lafd-charity-u351 .x4d-1 {
+  align-self: flex-end;
+  margin-bottom: 4px;
+  margin-left: 183px;
+}
+
+.lafd-charity-u351 .flex-col-2 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-left: 12px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 75px;
+}
+
+.lafd-charity-u351 .x4d-2 {
+  align-self: flex-end;
+  margin-bottom: 4px;
+  margin-left: 207px;
+}
+
+.lafd-charity-u351 .flex-col-3 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-left: 12px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 115px;
+}
+
+.lafd-charity-u351 .button-container-1 {
+  margin-top: 12px;
+  min-width: 376px;
+}
+
+.lafd-charity-u351 .button-21 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--apricot);
+  border-radius: 6px;
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  overflow: hidden;
+  width: 176px;
+}
+
+.lafd-charity-u351 .see-all {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.lafd-charity-u351 .button-22 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 6px;
+  display: flex;
+  gap: 6px;
+  height: 36px;
+  overflow: hidden;
+  padding: 6px 16px;
+  width: 176px;
+}
+
+.lafd-charity-u351 .group-3 {
+  height: 14px;
+  width: 14px;
+}
+
+.lafd-charity-u351 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 132px;
+  margin-top: 61px;
+  min-width: 685px;
+}
+
+.lafd-charity-u351 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 16px;
+  box-shadow: 0px 2px 5px #171a1f17 , 0px 0px 2px #171a1f1f;
+  display: flex;
+  height: 100px;
+  margin-bottom: 4.0px;
+  min-width: 100px;
+  padding: 28px 32px;
+}
+
+.lafd-charity-u351 .chevron-left-large {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 0;
+  padding: 0 5.5px;
+  width: 22px;
+}
+
+.lafd-charity-u351 .group-4 {
+  background-image: url(../img/group-65@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  width: 10px;
+}
+
+.lafd-charity-u351 .image-1-1 {
+  height: 110px;
+  margin-left: 6px;
+  width: 110px;
+}
+
+.lafd-charity-u351 .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/image-122@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 110px;
+  margin-left: 6px;
+  min-width: 110px;
+  padding: 31px 37px;
+}
+
+.lafd-charity-u351 .chevron-right-large {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 0;
+  padding: 0 5.8px;
+  width: 22px;
+}
+
+.lafd-charity-u351 .group-5 {
+  background-image: url(../img/group-66@2x.png);
+  background-size: 100% 100%;
+  height: 17px;
+  margin-left: 1px;
+  width: 10px;
+}
+
+.lafd-charity-u351 .implementation-of-th-1 {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-left: 132px;
+  margin-top: 41px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .the-lafd-is-actively {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 132px;
+  margin-top: 12px;
+  min-height: 208px;
+  width: 690px;
+}
+
+.lafd-charity-u351 .span0-1 {
+  line-height: 30px;
+}
+
+.lafd-charity-u351 .span1-1 {
+  line-height: 28px;
+}
+
+.lafd-charity-u351 .button-container-2 {
+  margin-left: 132px;
+  margin-top: 70px;
+  min-width: 690px;
+}
+
+.lafd-charity-u351 .button-24 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 16px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  overflow: hidden;
+  width: 333px;
+}
+
+.lafd-charity-u351 .button-25 {
+  align-items: center;
+  background-color: var(--blaze-orange);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 16px;
+  cursor: pointer;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  overflow: hidden;
+  width: 333px;
+}
+
+.lafd-charity-u351 .line-1 {
+  height: 1px;
+  margin-left: 132px;
+  margin-top: 48px;
+  object-fit: cover;
+  width: 700px;
+}
+
+.lafd-charity-u351 .words-of-support-3 {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-left: 132px;
+  margin-top: 48px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .lets-donate-in-orde {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 132px;
+  margin-top: 12px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .container-9-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  box-shadow: 0px 0px 1px #171a1f12 , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: 132px;
+  margin-top: 24px;
+  min-height: 132px;
+  padding: 16.0px 0;
+  width: 690px;
+}
+
+.lafd-charity-u351 .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  margin-left: 16px;
+  min-width: 153px;
+}
+
+.lafd-charity-u351 .flex-col-4 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 93px;
+}
+
+.lafd-charity-u351 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  height: 22px;
+  min-width: 66px;
+}
+
+.lafd-charity-u351 .flex-row-4 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  margin-left: 16px;
+  min-width: 145px;
+}
+
+.lafd-charity-u351 .flex-col-5 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 85px;
+}
+
+.lafd-charity-u351 .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 22px;
+  min-width: 63px;
+}
+
+.lafd-charity-u351 .price {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 27px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .flex-row-6 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  margin-left: 16px;
+  min-width: 154px;
+}
+
+.lafd-charity-u351 .flex-col-6 {
+  align-items: flex-start;
+  gap: 4px;
+  margin-top: 0;
+  min-height: 48px;
+  width: 94px;
+}
+
+.lafd-charity-u351 .flex-row-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 22px;
+  min-width: 61px;
+}
+
+.lafd-charity-u351 .button-26 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--manatee);
+  border-radius: 16px;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-left: 132px;
+  margin-top: 24px;
+  overflow: hidden;
+  width: 186px;
+}
+
+.lafd-charity-u351 .show-more {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.lafd-charity-u351 .container-container {
+  height: 854px;
+  margin-left: -24px;
+  margin-top: 18px;
+  position: relative;
+  width: 1464px;
+}
+
+.lafd-charity-u351 .container-83 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  height: 648px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1440px;
+  padding: 52.0px 117px;
+  position: absolute;
+  top: 0;
+}
+
+.lafd-charity-u351 .flex-col-7 {
+  align-items: flex-start;
+  align-self: center;
+  gap: 36px;
+  margin-top: 0;
+  min-height: 524px;
+  width: 374px;
+}
+
+.lafd-charity-u351 .title {
+  letter-spacing: 0;
+  line-height: 68px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .image-109 {
+  height: 158px;
+  width: 345px;
+}
+
+.lafd-charity-u351 .tag-33 {
+  display: flex;
+  gap: 4px;
+  margin-left: 10px;
+  margin-top: 15px;
+  width: 123px;
+}
+
+.lafd-charity-u351 .frame-7 {
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 89px;
+}
+
+.lafd-charity-u351 .wildfire-relief {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.lafd-charity-u351 .frame-1 {
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 30px;
+}
+
+.lafd-charity-u351 .la {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 1px;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.lafd-charity-u351 .overlap-group-1 {
+  align-self: center;
+  height: 129px;
+  margin-left: 6.0px;
+  position: relative;
+  width: 342px;
+}
+
+.lafd-charity-u351 .fire-bond-projects {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.lafd-charity-u351 .following-the-approv {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 39px;
+  width: 342px;
+}
+
+.lafd-charity-u351 .slider-31 {
+  align-self: center;
+  margin-top: 20px;
+  width: 342px;
+}
+
+.lafd-charity-u351 .rectangle-1 {
+  width: 146.58px;
+}
+
+.lafd-charity-u351 .x-raised-of {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 16px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .container-85 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 9px #171a1f1c , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  height: 420px;
+  margin-bottom: 10.0px;
+  margin-left: 30px;
+  overflow: hidden;
+  width: 368px;
+}
+
+.lafd-charity-u351 .image {
+  height: 185px;
+  object-fit: cover;
+  width: 368px;
+}
+
+.lafd-charity-u351 .tag-34 {
+  display: flex;
+  gap: 4px;
+  margin-left: 16px;
+  margin-top: 19px;
+  width: 93px;
+}
+
+.lafd-charity-u351 .frame-8 {
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 59px;
+}
+
+.lafd-charity-u351 .fire-development-services-enhancement {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 8px;
+  min-height: 60px;
+  width: 336px;
+}
+
+.lafd-charity-u351 .overlap-group1-1 {
+  align-self: center;
+  height: 74px;
+  margin-top: 4px;
+  position: relative;
+  width: 336px;
+}
+
+.lafd-charity-u351 .the-department-is-en {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.lafd-charity-u351 .rectangle-2 {
+  width: 18.01px;
+}
+
+.lafd-charity-u351 .flex-col-8 {
+  align-items: flex-end;
+  gap: 56px;
+  margin-left: 43px;
+  min-height: 514px;
+  width: 376px;
+}
+
+.lafd-charity-u351 .view-more {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-right: 21px;
+  min-width: 90px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .overlap-group2 {
+  height: 79px;
+  margin-top: 19px;
+  position: relative;
+  width: 344px;
+}
+
+.lafd-charity-u351 .collaboration-with-t {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 19px;
+  width: 344px;
+}
+
+.lafd-charity-u351 .tag-35 {
+  display: flex;
+  gap: 4px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 91px;
+}
+
+.lafd-charity-u351 .frame-9 {
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 57px;
+}
+
+.lafd-charity-u351 .wildfire {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.lafd-charity-u351 .rectangle-3 {
+  width: 273.34px;
+}
+
+.lafd-charity-u351 .x92567-raised-of-145000-goal {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 12px;
+  margin-top: 14px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .container-28 {
+  align-items: flex-start;
+  background-color: var(--supernova);
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 24px;
+  min-height: 236px;
+  padding: 37px 93px;
+  position: absolute;
+  top: 618px;
+  width: 1440px;
+}
+
+.lafd-charity-u351 .flex-row-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  min-width: 1215px;
+}
+
+.lafd-charity-u351 .image-2 {
+  height: 71px;
+  width: 92px;
+}
+
+.lafd-charity-u351 .the-phoenix-foundation-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 0;
+  min-height: 71px;
+  width: 127px;
+}
+
+.lafd-charity-u351 .flex-col-9 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 8px;
+  margin-left: 184px;
+  min-height: 52px;
+  width: 213px;
+}
+
+.lafd-charity-u351 .flex-row-9 {
+  align-items: flex-end;
+  display: flex;
+  gap: 117px;
+  height: 22px;
+  min-width: 213px;
+}
+
+.lafd-charity-u351 .project-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 47px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .privacy {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .flex-row-10 {
+  align-items: flex-start;
+  display: flex;
+  gap: 78px;
+  height: 22px;
+  min-width: 205px;
+}
+
+.lafd-charity-u351 .how-it-works-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .terms {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .button-7 {
+  align-items: center;
+  align-self: flex-end;
+  border: 1px solid;
+  border-color: var(--blaze-orange);
+  border-radius: 6px;
+  display: flex;
+  height: 52px;
+  justify-content: center;
+  margin-left: 445px;
+  overflow: hidden;
+  width: 154px;
+}
+
+.lafd-charity-u351 .help-center {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.lafd-charity-u351 .flex-col-10 {
+  align-items: flex-start;
+  align-self: center;
+  gap: 6px;
+  min-height: 56px;
+  width: 1176px;
+}
+
+.lafd-charity-u351 .flex-row-11 {
+  align-items: flex-end;
+  display: flex;
+  height: 26px;
+  min-width: 581px;
+}
+
+.lafd-charity-u351 .phone {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .about-us-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 258px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .place {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 104px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .address {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 270px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .fa-qs-1 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 94px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .copyright {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 120px;
+  min-width: 122px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .logo-twitter-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 416px;
+  padding: 0 2.3px;
+  width: 24px;
+}
+
+.lafd-charity-u351 .group-6 {
+  background-image: url(../img/group-2@2x.png);
+  background-size: 100% 100%;
+  height: 16px;
+  width: 19px;
+}
+
+.lafd-charity-u351 .logo-facebook-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 2.4px 2.4px;
+  width: 24px;
+}
+
+.lafd-charity-u351 .group-7 {
+  background-image: url(../img/group-1@2x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  width: 19px;
+}
+
+.lafd-charity-u351 .logo-linkedin-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 0 3px;
+  width: 24px;
+}
+
+.lafd-charity-u351 .group-8 {
+  background-image: url(../img/group-4@2x.png);
+  background-size: 100% 100%;
+  height: 18px;
+  width: 18px;
+}
+
+.lafd-charity-u351 .logo-youtube-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  margin-left: 8px;
+  padding: 5.2px 2.4px;
+  width: 24px;
+}
+
+.lafd-charity-u351 .group-9 {
+  background-image: url(../img/group-3@2x.png);
+  background-size: 100% 100%;
+  height: 14px;
+  width: 19px;
+}
+
+.lafd-charity-u351 .button-container-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+}
+
+.lafd-charity-u351 .flex-col-11 {
+  display: flex;
+  flex-direction: column;
+}
+
+.lafd-charity-u351 .frame-10 {
+  align-items: center;
+  display: flex;
+}
+
+.lafd-charity-u351 .la-3 {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 1px;
+  white-space: nowrap;
+  width: 15px;
+}
+
+.lafd-charity-u351 .name-7 {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.lafd-charity-u351 .rectangle-4 {
+  background-color: var(--blaze-orange);
+  border: 0px none;
+  flex: 1;
+}
+
+.lafd-charity-u351 .slider {
+  align-items: center;
+  display: flex;
+  height: 22px;
+}
+
+.lafd-charity-u351 .x4d-4 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 18px;
+  text-align: right;
+  white-space: nowrap;
+}

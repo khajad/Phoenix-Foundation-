@@ -1,0 +1,827 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:500,400,700|Archivo:900,400,600,800,500,700|Arbutus+Slab:400|Alegreya+Sans+SC:900|Poppins:300");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/67ccb15510bc8784fcbfd998.67ccb15610bc8784fcbfd99b.16Z4HcQ.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.align-self-flex-center {
+  align-self: flex-center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.vacancies {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 78px;
+  min-width: 68px;
+  white-space: nowrap;
+}
+
+.who-we-help {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 258px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.sitemap {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 130px;
+  min-width: 54px;
+  white-space: nowrap;
+}
+
+.x2022-brand-inc {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 111px;
+  min-width: 122px;
+  white-space: nowrap;
+}
+
+.keyboard-arrow-down {
+  height: 28px;
+  width: 28px;
+}
+
+.oval-1 {
+  cursor: pointer;
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 163px;
+}
+
+.place-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 0;
+  margin-left: 81px;
+  min-width: 53px;
+  white-space: nowrap;
+}
+
+.container-64 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0px none;
+  display: flex;
+  height: 104px;
+  min-width: 1440px;
+  padding: 9px 96px;
+}
+
+.back-projects {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.the {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.apparatus-modernization-program {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 8px;
+  min-height: 60px;
+  width: 336px;
+}
+
+.slider-16 {
+  margin-top: 12px;
+}
+
+.browse-fundraisers-by-category {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 68px;
+  margin-right: 54.0px;
+  margin-top: 62px;
+  min-width: 668px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.container-47 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  height: 218px;
+  justify-content: flex-end;
+  left: 69px;
+  min-width: 176px;
+  padding: 11px 0;
+  position: absolute;
+  top: 0;
+}
+
+.los-angeles-fire-department-lafd {
+  letter-spacing: 0;
+  line-height: 68px;
+  min-width: 786px;
+  white-space: nowrap;
+}
+
+.container-42 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 9px #171a1f1c , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  height: 420px;
+  overflow: hidden;
+  width: 368px;
+}
+
+.the-lafd-is-moderniz {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.slider-13 {
+  align-self: center;
+  margin-top: 6px;
+}
+
+.container-60 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  gap: 36px;
+  height: 648px;
+  margin-top: 62px;
+  min-width: 1440px;
+  padding: 62px 132px;
+}
+
+.overlap-group-4 {
+  align-self: center;
+  height: 104px;
+  margin-top: 8px;
+  position: relative;
+  width: 336px;
+}
+
+.image-50 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 150px;
+  left: 287px;
+  overflow: hidden;
+  padding: 14.5px 0;
+  position: absolute;
+  top: 161px;
+  transform: rotate(20.53deg);
+  width: 163px;
+}
+
+.image-51 {
+  align-items: flex-end;
+  border: 0px none;
+  border-radius: 185px;
+  display: flex;
+  height: 498px;
+  left: 0;
+  overflow: hidden;
+  padding: 74.0px 5.9px;
+  position: absolute;
+  top: 0;
+  width: 369px;
+}
+
+.image-52 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 77px;
+  left: 938px;
+  padding: 2.2px 5.0px;
+  position: absolute;
+  top: 184px;
+  width: 87px;
+}
+
+.image-53 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 33px;
+  left: 318px;
+  padding: 2.6px 4.1px;
+  position: absolute;
+  top: 192px;
+  width: 36px;
+}
+
+.image-54 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 25px;
+  left: 352px;
+  overflow: hidden;
+  position: absolute;
+  top: 184px;
+  transform: rotate(31.42deg);
+  width: 27px;
+}
+
+.energy-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 152px;
+  padding: 7.9px 15.4px;
+  transform: rotate(-22.17deg);
+  width: 152px;
+}
+
+.house-property-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 146px;
+  margin-left: 66px;
+  margin-top: 31.0px;
+  overflow: hidden;
+  transform: rotate(25.90deg);
+  width: 146px;
+}
+
+.these-funds-are-allo {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 2px;
+  min-height: 60px;
+  width: 336px;
+}
+
+.in-partnership-with {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 57px;
+  width: 336px;
+}
+
+.land-memories-audio-project {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 4px;
+  width: 336px;
+}
+
+.in-collaboration-wit {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 4px;
+  min-height: 80px;
+  width: 336px;
+}
+
+.container-117 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0px none;
+  display: flex;
+  height: 104px;
+  min-width: 1440px;
+  padding: 9px 107px;
+}
+
+.our-mission {
+  letter-spacing: 0;
+  line-height: 68px;
+  margin-left: 3px;
+  margin-top: 21px;
+  width: 276px;
+}
+
+.image-154 {
+  align-items: flex-end;
+  border: 0px none;
+  display: flex;
+  height: 453px;
+  left: 0;
+  padding: 48.9px 49.9px;
+  position: absolute;
+  top: 0;
+  width: 604px;
+}
+
+.image-155 {
+  align-items: flex-end;
+  border: 0px none;
+  display: flex;
+  height: 92px;
+  left: 271px;
+  padding: 3.2px 9.5px;
+  position: absolute;
+  top: 31px;
+  transform: rotate(-12.38deg);
+  width: 86px;
+}
+
+.image-156 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 46px;
+  left: 265px;
+  overflow: hidden;
+  position: absolute;
+  top: 285px;
+  transform: rotate(21.45deg);
+  width: 50px;
+}
+
+.container-120 {
+  align-items: center;
+  background-color: var(--lavender-blush);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  gap: 36px;
+  height: 961px;
+  min-width: 1440px;
+  padding: 0 132px;
+}
+
+.fundraising {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 16.0px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.job-vacancies {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 16px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.volunteering {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 16.0px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.events-challenges {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 16px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.friends {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 16.0px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.corporates {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 16.0px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.container-127 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  height: 464px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 36px 89px;
+}
+
+.image-container-1 {
+  align-self: center;
+  height: 324px;
+  margin-top: 26.0px;
+  position: relative;
+  width: 358px;
+}
+
+.image-158 {
+  align-items: flex-end;
+  border: 0px none;
+  display: flex;
+  height: 324px;
+  left: 37px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 321px;
+}
+
+.image-160 {
+  align-items: center;
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  height: 117px;
+  left: 0;
+  padding: 14.6px 21.3px;
+  position: absolute;
+  top: 45px;
+  width: 127px;
+}
+
+.transparency-trust {
+  letter-spacing: 0;
+  line-height: 68px;
+  margin-left: 7px;
+  min-width: 451px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.we-partner-with-rec {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: 2px;
+  margin-top: 12px;
+  min-height: 66px;
+  text-align: center;
+  width: 500px;
+}
+
+.image-container-2 {
+  align-self: flex-end;
+  height: 345px;
+  margin-left: 66px;
+  position: relative;
+  width: 315px;
+}
+
+.image-157 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 345px;
+  left: 0;
+  padding: 18.9px 10.9px;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.image-159 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 77px;
+  left: 228px;
+  padding: 2.2px 5.0px;
+  position: absolute;
+  top: 27px;
+  width: 87px;
+}
+
+.container-119 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 6px;
+  display: flex;
+  height: 377px;
+  margin-top: 32px;
+  overflow: hidden;
+  padding: 0 176px;
+  width: 1440px;
+}
+
+.image-142 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 150px;
+  left: 287px;
+  overflow: hidden;
+  padding: 14.5px 0;
+  position: absolute;
+  top: 161px;
+  transform: rotate(20.53deg);
+  width: 163px;
+}
+
+.image-143 {
+  align-items: flex-end;
+  border: 0px none;
+  border-radius: 185px;
+  display: flex;
+  height: 498px;
+  left: 0;
+  overflow: hidden;
+  padding: 74.0px 5.9px;
+  position: absolute;
+  top: 0;
+  width: 369px;
+}
+
+.image-144 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 77px;
+  left: 938px;
+  padding: 2.2px 5.0px;
+  position: absolute;
+  top: 184px;
+  width: 87px;
+}
+
+.image-145 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 33px;
+  left: 318px;
+  padding: 2.6px 4.1px;
+  position: absolute;
+  top: 192px;
+  width: 36px;
+}
+
+.image-146 {
+  align-items: flex-start;
+  border: 0px none;
+  display: flex;
+  height: 25px;
+  left: 352px;
+  overflow: hidden;
+  position: absolute;
+  top: 184px;
+  transform: rotate(31.42deg);
+  width: 27px;
+}
+
+.get {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.blrrf {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.x7d {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 4px;
+  margin-left: 169px;
+  min-width: 16px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.star {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 16px;
+  margin-left: 1px;
+  padding: 1.0px 0.8px;
+  width: 16px;
+}
+
+.see-top-donations {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.icon-button {
+  align-items: center;
+  background-color: var(--mischka);
+  border: 1px solid;
+  border-color: transparent;
+  border-radius: 18px;
+  display: flex;
+  height: 36px;
+  overflow: hidden;
+  padding: 7.0px;
+  width: 36px;
+}
+
+.image-118 {
+  height: 110px;
+  margin-left: 11px;
+  width: 110px;
+}
+
+.price-5 {
+  min-width: 33px;
+}
+
+.happy-to-support-thi {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 44px;
+  width: 658px;
+}
+
+.x5d {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 18px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.glad-to-be-a-part-of {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 44px;
+  width: 658px;
+}
+
+.x9d {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-width: 18px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.giving-what-i-can-to {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 44px;
+  width: 658px;
+}
+
+.wild-fire {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: -1px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.slider-32 {
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 336px;
+}
+
+.container-86 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 9px #171a1f1c , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  height: 430px;
+  overflow: hidden;
+  width: 376px;
+}
+
+.image-111 {
+  height: 185px;
+  width: 376px;
+}
+
+.the-lafd-partners-wi {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 60px;
+  width: 344px;
+}
+
+.slider-33 {
+  margin-top: 14px;
+  width: 344px;
+}
+
+.flex-row-12 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1176px;
+}
+
+.price-6 {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.back-to-main-site {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.ration-container {
+  align-self: center;
+  height: 104px;
+  margin-top: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.container-84 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 9px #171a1f1c , 0px 0px 2px #171a1f1f;
+  display: flex;
+  flex-direction: column;
+  height: 420px;
+  overflow: hidden;
+  width: 374px;
+}
+
+.donate-now-1 {
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.wildfire-relief-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}

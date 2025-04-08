@@ -1,6 +1,6 @@
 {
     "taskDefinitionArn": "arn:aws:ecs:us-east-1:199250253349:task-definition/aws-deploy:1",
-    "executionRoleArn": "arn:aws:iam::aws:policy/service-role/AmazonECSTaskExecutionRolePolicy"
+    "executionRoleArn": "arn:aws:iam::aws:policy/service-role/AmazonECSTaskExecutionRolePolicy",
     "containerDefinitions": [
         {
             "name": "awsdeploy",

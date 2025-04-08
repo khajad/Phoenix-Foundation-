@@ -1,18 +1,18 @@
-name: Docker Image CI
+FROM public.ecr.aws/amazonlinux/amazonlinux:latest
 
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+# Update installed packages and install Apache
+RUN yum update -y && \
+ yum install -y httpd
 
-jobs:
+# Write hello world message
+RUN echo 'Hello World!' > /var/www/html/index.html
 
-  build:
+# Configure Apache
+RUN echo 'mkdir -p /var/run/httpd' >> /root/run_apache.sh && \
+ echo 'mkdir -p /var/lock/httpd' >> /root/run_apache.sh && \
+ echo '/usr/sbin/httpd -D FOREGROUND' >> /root/run_apache.sh && \
+ chmod 755 /root/run_apache.sh
 
-    runs-on: ubuntu-latest
+EXPOSE 80
 
-    steps:
-    - uses: actions/checkout@v4
-    - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+CMD /root/run_apache.sh

@@ -1,8 +1,7 @@
 FROM nginx:alpine
 
-COPY *.html /usr/share/nginx/html/
-COPY css/      /usr/share/nginx/html/css/
-COPY img/      /usr/share/nginx/html/img/
+# Copy every file and folder from your repo into nginx’s webroot
+COPY . /usr/share/nginx/html
 
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]

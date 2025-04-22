@@ -986,3 +986,8 @@
   justify-content: flex-end;
   margin-left: -1px;
 }
+
+#paypal-button-container {
+  width: 45%;
+}
+

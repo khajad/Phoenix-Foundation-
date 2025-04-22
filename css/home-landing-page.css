@@ -640,11 +640,11 @@
 }
 
 .home-landing-page .group-13 {
-  height: 28px;
-  left: 91px;
+  height: 400px;
+  left: 1px;
   position: absolute;
-  top: 27px;
-  width: 26px;
+  top: 46px;
+  width: 234px;
 }
 
 .home-landing-page .image-21 {
@@ -960,11 +960,12 @@
 }
 
 .home-landing-page .layer_1-23 {
-  height: 95px;
-  left: 0;
   position: absolute;
-  top: 13px;
-  width: 96px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+  height: auto;
 }
 
 .home-landing-page .layer_1-24 {
@@ -1181,11 +1182,12 @@
 }
 
 .home-landing-page .layer_1-40 {
-  height: 83px;
-  left: 0;
   position: absolute;
-  top: 29px;
-  width: 87px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+  height: auto;
 }
 
 .home-landing-page .layer_1-41 {
@@ -1269,11 +1271,12 @@
 }
 
 .home-landing-page .layer_1-45 {
-  height: 114px;
-  left: 1px;
   position: absolute;
-  top: 0;
-  width: 117px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 200px;
+  height: auto;
 }
 
 .home-landing-page .layer_1-46 {
@@ -2095,11 +2098,9 @@
 }
 
 .home-landing-page .group-15 {
-  height: 216px;
-  left: 0;
-  position: absolute;
-  top: 133px;
-  width: 300px;
+  width: 300px;       /* Adjust as needed */
+  height: auto;
+  display: block;
 }
 
 .home-landing-page .group-16 {

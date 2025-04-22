@@ -939,10 +939,9 @@
 }
 
 .projects .group-container {
-  height: 349px;
-  margin-left: 57px;
-  position: relative;
-  width: 300px;
+  width: 400px;        /* Make it wider */
+  height: auto;        /* Height scales naturally with width */
+  display: block;
 }
 
 .projects .group-1 {
@@ -1603,3 +1602,4 @@
   line-height: 22px;
   white-space: nowrap;
 }
+

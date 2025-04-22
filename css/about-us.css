@@ -214,9 +214,10 @@
 }
 
 .about-us .group-container {
-  height: 351px;
-  position: relative;
-  width: 503px;
+  height: 400px;        /* Make it taller */
+  width: auto;          /* Let width scale naturally */
+  margin: 0 auto 0 100px; /* Top 0, auto right, 0 bottom, 100px left margin to push it right */
+  display: block;
 }
 
 .about-us .group-1 {

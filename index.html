@@ -45,10 +45,20 @@
             >
             <div class="frame-4 frame-8"><div class="fa-qs inter-normal-burnt-maroon-16px">FAQs</div></div>
           </div>
-          <div class="textbox-1 textbox">
-            <img class="search" src="img/search@2x.png" alt="Search" />
-            <div class="search-1 inter-normal-eerie-black-14px">Search</div>
-          </div>
+          <form id="search-form">
+            <input type="text" id="search-theme" placeholder="Enter theme (e.g. edu, health)" required />
+            <button type="submit">Search</button>
+          </form>
+          <script>
+            document.getElementById('search-form').addEventListener('submit', function (e) {
+              e.preventDefault();
+              const theme = document.getElementById('search-theme').value.trim();
+              if (theme) {
+                window.location.href = `projects.html?theme=${encodeURIComponent(theme)}`;
+              }
+            });
+          </script>
+          <div id="charity-results" style="margin-top: 20px;"></div>
           <a href="about-us.html">
             <div class="button-1"><div class="get-started inter-normal-white-14px">Get started</div></div></a
           >
@@ -141,7 +151,11 @@
             </div>
             <div class="image-20">
               <div class="group-container-1">
-                <img class="group-13" src="group 13.png" alt="Group" />
+                <img class="group-9" src="img/group-10@2x.png" alt="Group" />
+                <img class="group-10" src="img/group-12@2x.png" alt="Group" />
+                <img class="group-11" src="img/group-12@2x.png" alt="Group" />
+                <img class="group-12" src="img/group-14@2x.png" alt="Group" />
+                <img class="group-13" src="img/group-14@2x.png" alt="Group" />
               </div>
             </div>
             <div class="image-21">
@@ -199,12 +213,13 @@
               <div class="container-8">
                 <div class="image-23">
                   <div class="layer_-container-4">
-                    <img class="layer_1-23" src="layer_1-23.png" alt="Layer_1" />
+                    <img class="layer_1-23" src="img/layer-1-10@2x.png" alt="Layer_1" />
+                    <img class="layer_1-24" src="img/layer-1-16@2x.png" alt="Layer_1" />
                   </div>
                 </div>
                 <div class="choose-a-cause archivo-normal-white-20px">Choose a Cause</div>
                 <p class="browse-and-selcet-a inter-normal-white-14px">
-                  Browse and select a fire relief charity that aligns with your mission.
+                  Browse and selcet a fire refielf charity that aligns with your mission
                 </p>
               </div>
               <div class="image-27">
@@ -225,9 +240,19 @@
               <div class="container-9">
                 <div class="image-24">
                   <div class="layer_-container-7">
-                    
-                    <img class="layer_1-40" src="layer_1-31.png" alt="Layer_1" />
-                    
+                    <img class="layer_1-31" src="img/layer-1-12@2x.png" alt="Layer_1" />
+                    <img class="layer_1-32" src="img/layer-1-13@2x.png" alt="Layer_1" />
+                    <img class="layer_1-33" src="img/layer-1-14@2x.png" alt="Layer_1" />
+                    <img class="layer_1-34" src="img/layer-1-15@2x.png" alt="Layer_1" />
+                    <img class="layer_1-35" src="img/layer-1-16@2x.png" alt="Layer_1" />
+                    <img class="layer_1-36" src="img/layer-1-17@2x.png" alt="Layer_1" />
+                    <img class="layer_1-37" src="img/layer-1-18@2x.png" alt="Layer_1" />
+                    <img class="layer_1-38" src="img/layer-1-19@2x.png" alt="Layer_1" />
+                    <img class="layer_1-39" src="img/layer-1-20@2x.png" alt="Layer_1" />
+                    <img class="layer_1-40" src="img/layer-1-26@2x.png" alt="Layer_1" />
+                    <img class="layer_1-41" src="img/layer-1-22@2x.png" alt="Layer_1" />
+                    <img class="layer_1-42" src="img/layer-1-23@2x.png" alt="Layer_1" />
+                    <img class="layer_1-43" src="img/layer-1-29@2x.png" alt="Layer_1" />
                   </div>
                 </div>
                 <div class="make-a-donation archivo-normal-white-20px">Make a Donation</div>
@@ -239,7 +264,13 @@
             <div class="container-10">
               <div class="image-25">
                 <div class="layer_-container-8">
-                  <img class="layer_1-45" src="layer_1-45.png" alt="Layer_1" />
+                  <img class="layer_1-44" src="img/layer-1-30@2x.png" alt="Layer_1" />
+                  <img class="layer_1-45" src="img/layer-1-26@2x.png" alt="Layer_1" />
+                  <img class="layer_1-46" src="img/layer-1-32@2x.png" alt="Layer_1" />
+                  <img class="layer_1-47" src="img/layer-1-28@2x.png" alt="Layer_1" />
+                  <img class="layer_1-48" src="img/layer-1-29@2x.png" alt="Layer_1" />
+                  <img class="layer_1-49" src="img/layer-1-35@2x.png" alt="Layer_1" />
+                  <img class="layer_1-50" src="img/layer-1-31@2x.png" alt="Layer_1" />
                 </div>
               </div>
               <div class="see-the-impact archivo-normal-white-20px">See the Impact</div>
@@ -444,9 +475,12 @@
             <div class="image-41"><img class="layer_1-51" src="img/layer-1-48@2x.png" alt="Layer_1" /></div>
             <div class="image-42">
               <div class="group-container-2">
-
-                <img class="group-15" src="Group-15.png" alt="Group" />
-
+                <img class="group-14" src="img/group-15@2x.png" alt="Group" />
+                <img class="group-15" src="img/group-16@2x.png" alt="Group" />
+                <img class="group-16" src="img/group-18@2x.png" alt="Group" />
+                <img class="group-17" src="img/group-18@2x.png" alt="Group" />
+                <img class="group-18" src="img/group-19@2x.png" alt="Group" />
+                <img class="group-19" src="img/group-20@2x.png" alt="Group" />
               </div>
             </div>
             <div class="button-6"><div class="subscribe inter-normal-white-18px">Subscribe</div></div>
@@ -470,9 +504,23 @@
             </div>
             <div class="image-44">
               <div class="layer_-container-9">
-                
+                <img class="layer_1-52" src="img/layer-1-53@2x.png" alt="Layer_1" />
+                <img class="layer_1-53" src="img/layer-1-54@2x.png" alt="Layer_1" />
+                <img class="layer_1-6" src="img/layer-1-60@2x.png" alt="Layer_1" />
+                <img class="layer_1-54" src="img/layer-1-56@2x.png" alt="Layer_1" />
+                <img class="layer_1-55" src="img/layer-1-57@2x.png" alt="Layer_1" />
+                <img class="layer_1-56" src="img/layer-1-58@2x.png" alt="Layer_1" />
+                <img class="layer_1-57" src="img/layer-1-53@2x.png" alt="Layer_1" />
                 <img class="layer_1-58" src="img/layer-1-60@2x.png" alt="Layer_1" />
-            
+                <img class="layer_1-59" src="img/layer-1-14@2x.png" alt="Layer_1" />
+                <img class="layer_1-7" src="img/layer-1-62@2x.png" alt="Layer_1" />
+                <img class="layer_1-7" src="img/layer-1-63@2x.png" alt="Layer_1" />
+                <img class="layer_1-60" src="img/layer-1-64@2x.png" alt="Layer_1" />
+                <img class="layer_1-61" src="img/layer-1-65@2x.png" alt="Layer_1" />
+                <img class="layer_1-8" src="img/layer-1-66@2x.png" alt="Layer_1" />
+                <img class="layer_1-8" src="img/layer-1-54@2x.png" alt="Layer_1" />
+                <img class="layer_1-62" src="img/layer-1-68@2x.png" alt="Layer_1" />
+                <img class="layer_1-9" src="img/layer-1-69@2x.png" alt="Layer_1" />
               </div>
             </div>
             <div class="image-45">
@@ -549,4 +597,3 @@
     </div>
   </body>
 </html>
-
